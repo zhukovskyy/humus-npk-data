@@ -1,0 +1,17 @@
+predecessor,rotation,residue_class,observed_balance_kg_ha,predicted_chernozem_zone_kg_ha,predicted_polissia_native_kg_ha
+clean_fallow,sugar_beet,cereal,-635,-582,-261
+clean_fallow,buckwheat,cereal,-493,-512,-210
+pea_grain,sugar_beet,cereal,-320,-285,93
+pea_grain,buckwheat,cereal,-190,-224,133
+grass_pea_grain,sugar_beet,cereal,-366,-336,25
+grass_pea_grain,buckwheat,cereal,-234,-269,73
+lentil_grain,sugar_beet,cereal,-343,-307,63
+lentil_grain,buckwheat,cereal,-218,-252,95
+vetch_oats_green,sugar_beet,green_mass,-241,-224,98
+vetch_oats_green,buckwheat,green_mass,-109,-172,129
+soybean_green,sugar_beet,green_mass,-273,-256,56
+soybean_green,buckwheat,green_mass,-148,-207,83
+bean_grain,sugar_beet,cereal,-363,-330,33
+bean_grain,buckwheat,cereal,-227,-262,83
+maize_silage,sugar_beet,cereal,-431,-446,-124
+maize_silage,buckwheat,cereal,-307,-385,-84

@@ -1,0 +1,17 @@
+predecessor,residue_class,rotation,productivity_t_feed_protein_units_ha,byproduct_t_ha,surface_residues_t_ha,root_residues_t_ha,residues_total_t_ha,formed_kg_ha,mineralised_kg_ha,balance_kg_ha
+clean_fallow,cereal,sugar_beet,2.31,3.05,1.20,2.16,6.41,908,1543,-635
+clean_fallow,cereal,buckwheat,2.17,2.77,1.28,2.00,6.05,927,1420,-493
+pea_grain,cereal,sugar_beet,3.75,3.66,1.33,2.56,7.55,1097,1417,-320
+pea_grain,cereal,buckwheat,2.71,3.35,1.40,2.39,7.14,1105,1295,-190
+grass_pea_grain,cereal,sugar_beet,3.53,3.45,1.28,2.48,7.21,1051,1417,-366
+grass_pea_grain,cereal,buckwheat,2.55,3.16,1.36,2.32,6.84,1061,1295,-234
+lentil_grain,cereal,sugar_beet,3.72,3.57,1.31,2.52,7.40,1074,1417,-343
+lentil_grain,cereal,buckwheat,2.66,3.21,1.38,2.36,6.95,1077,1295,-218
+vetch_oats_green,green_mass,sugar_beet,3.71,2.91,1.15,2.37,6.43,1076,1317,-241
+vetch_oats_green,green_mass,buckwheat,2.68,2.60,1.22,2.20,6.02,1086,1195,-109
+soybean_green,green_mass,sugar_beet,3.78,2.83,1.12,2.29,6.24,1044,1317,-273
+soybean_green,green_mass,buckwheat,2.77,2.49,1.19,2.13,5.81,1047,1195,-148
+bean_grain,cereal,sugar_beet,3.36,3.50,1.28,2.47,7.25,1054,1417,-363
+bean_grain,cereal,buckwheat,2.39,3.20,1.36,2.33,6.89,1068,1295,-227
+maize_silage,cereal,sugar_beet,3.39,2.63,1.06,2.74,6.43,979,1410,-431
+maize_silage,cereal,buckwheat,2.44,2.33,1.13,2.56,6.02,981,1288,-307

@@ -1,0 +1,5 @@
+Balance identity formed - mineralised = balance: exact in all 16 rotations
+Implied plough-layer mass: 3570 t/ha (calculator 3500; diff 2.0%)
+Reported mineralisation: 1.20-1.54 t/ha/yr
+chernozem_zone: kappa={'cereal': 0.15, 'green_mass': 0.17}  RMSE=41  MAE=37  MB=-9 kg/ha/yr  sign correct 16/16
+polissia_native: kappa={'cereal': 0.2, 'green_mass': 0.22}  RMSE=329  MAE=324  MB=+324 kg/ha/yr  sign correct 4/16
