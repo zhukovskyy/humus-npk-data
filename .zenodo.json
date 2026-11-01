@@ -1,0 +1,52 @@
+{
+  "upload_type": "dataset",
+  "title": "Validation data, coefficients and script for an integrated humus and NPK balance decision-support framework",
+  "description": "<p>Validation data, model coefficients and a reproducible script accompanying the manuscript <em>A GIS-enabled environmental decision-support framework for integrated humus and NPK balance modelling in crop-rotation planning</em> (submitted to Environmental Modelling &amp; Software).</p><p>Contents: humus balance and humus stock values transcribed from Kudria et al. (2024, doi:10.31073/agrovisnyk202401-08) used for the cross-regional validation of the humus module; representative coefficients of the deployed calculator; a worked N-P-K balance example; a term-by-term comparison of NPK balance coefficients with an independent long-term rotation-balance study; and a Python script that reproduces the validation metrics and figure. Values transcribed from third-party publications remain attributable to their original authors; see README.md.</p>",
+  "creators": [
+    {
+      "name": "Zhukovskyy, Viktor",
+      "affiliation": "National University of Water and Environmental Engineering",
+      "orcid": "0000-0002-7088-6930"
+    },
+    {
+      "name": "Skrypchuk, Petro",
+      "affiliation": "National University of Water and Environmental Engineering"
+    },
+    {
+      "name": "Shpak, Halyna",
+      "affiliation": "National University of Water and Environmental Engineering"
+    },
+    {
+      "name": "Zhukovska, Nataliia",
+      "affiliation": "National University of Water and Environmental Engineering"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "decision support system",
+    "GIS",
+    "humus dynamics",
+    "nutrient balance",
+    "crop rotation",
+    "environmental software",
+    "model validation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.31073/agrovisnyk202401-08",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.12911/22998993/123255",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://organicportal.in.ua/organic-map",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
