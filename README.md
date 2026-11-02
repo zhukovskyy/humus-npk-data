@@ -4,7 +4,7 @@ Supplementary data and code for:
 
 > Zhukovskyy V., Skrypchuk P., Shpak H., Zhukovska N. *A GIS-enabled environmental
 > decision-support framework for integrated humus and NPK balance modelling in
-> crop-rotation planning.* Submitted to *Environmental Modelling & Software*.
+> crop-rotation planning.* Manuscript submitted for publication.
 
 Web application: <https://organicportal.in.ua/organic-map>
 
