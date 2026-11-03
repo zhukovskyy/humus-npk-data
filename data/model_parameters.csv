@@ -1,0 +1,27 @@
+quantity,value,unit,note
+initial_humus_content,2.2,%,"case study, Rivne district"
+soil_weight_w (mineralisation),1.2,-,light loam
+humification_beta_organic_fertiliser,0.162,t humus per t,Forest-Steppe districts (Polissia 0.126)
+plough_layer_reference_mass,3500.0,t/ha,H% conversion
+post_harvest_green_manure_green_mass,300.0,c/ha,catch crop after winter wheat or rye
+green_manure_humus_per_c,0.00575,t humus per c green mass,0.25 dry matter x 0.23
+green_manure_N_content,4.1,kg N per t green mass,
+symbiotic_fixation_share,0.5,share of legume N uptake,Podobed (2010)
+atmospheric_deposition_N,8.7,kg/ha/yr,
+leaching_Forest_Steppe_N,5.0,kg/ha/yr,medium texture
+atmospheric_deposition_P2O5,0.12,kg/ha/yr,
+leaching_Forest_Steppe_P2O5,0.2,kg/ha/yr,medium texture
+atmospheric_deposition_K2O,8.2,kg/ha/yr,
+leaching_Forest_Steppe_K2O,2.0,kg/ha/yr,medium texture
+weed_uptake_share,0.22,share of crop removal,
+gaseous_loss_mineral_N,0.1,share of mineral N,conventional mode
+application_loss_N,10.0,kg/ha/yr,conventional mode
+application_loss_K2O,5.0,kg/ha/yr,conventional mode
+N_surplus_upper_bound,80.0,kg/ha/yr,EU Nitrogen Expert Panel (2015)
+biohumus (vermicompost): N/P2O5/K2O,8.4/15.0/9.0,kg per t,max rate 4.0 t/ha
+phosphorite flour: N/P2O5/K2O,0.0/230.0/22.0,kg per t,max rate 2.0 t/ha
+Ecosoil: N/P2O5/K2O,0.0/50.0/300.0,kg per t,max rate 0.4 t/ha
+sapropel: N/P2O5/K2O,4.2/0.7/0.0,kg per t,max rate 0.4 t/ha
+cost_biohumus,4000,UAH per t,123.84 EUR per t
+cost_mineral_nutrient,50,"UAH per kg N, P2O5 or K2O","1.548 EUR per kg; complex fertiliser 22:11:11 at 22000 UAH/t; also used for phosphorite flour, Ecosoil, sapropel by nutrient content"
+exchange_rate,32.3009,UAH per EUR,"mean of 365 daily official NBU rates, 2021"

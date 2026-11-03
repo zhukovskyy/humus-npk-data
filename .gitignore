@@ -1,2 +1,10 @@
 __pycache__/
 *.pyc
+# analysis code is kept private (available on request)
+scripts/*
+!scripts/humus_validation.py
+output/molp_cache.npy
+output/run_log*.txt
+output/pareto_front.*
+output/pareto_summary.txt
+output/rotation_plans.csv

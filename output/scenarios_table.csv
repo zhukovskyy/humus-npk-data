@@ -1,0 +1,17 @@
+scenario,mode,rotation,dH,humus_10yr,B_N,N_deficit,margin
+S1 profit,organic,buckwheat - lupin green manure - soybean - winter wheat + GM - winter rye + GM,0.202,2.258,0.0,-0.0,472.0
+S2 restoration,organic,buckwheat - winter rye + GM - lupin green manure - winter wheat + GM - grain maize,0.7,2.4,0.0,-0.0,447.0
+S3 agroecological,organic,buckwheat - winter rye + GM - grain maize - lupin green manure - winter wheat + GM,0.547,2.356,0.0,-0.0,357.0
+B2 humus only,organic,buckwheat - winter rye + GM - grain maize - lupin green manure - winter wheat + GM,1.69,2.683,6.4,-0.0,188.0
+S1 profit,conventional,buckwheat - winter rye + GM - grain maize - soybean - winter wheat + GM,0.714,2.404,0.0,-0.0,623.0
+S2 restoration,conventional,buckwheat - winter rye + GM - grain maize - soybean - winter wheat + GM,0.714,2.404,0.0,-0.0,623.0
+B2 humus only,conventional,buckwheat - winter rye + GM - grain maize - lupin green manure - winter wheat + GM,1.69,2.683,-1.6,1.6,188.0
+S4 balanced,organic,buckwheat - grain maize - lupin green manure - winter wheat + GM - winter rye + GM,1.042,2.498,-27.2,27.2,592.0
+S4 balanced,conventional,buckwheat - grain maize - lupin green manure - winter wheat + GM - winter rye + GM,1.042,2.498,-0.0,-0.0,525.0
+B1 calculator (best by humus),organic,buckwheat - winter rye + GM - grain maize - lupin green manure - winter wheat + GM,1.174,2.535,27.8,-0.0,-50.0
+S0 unconstrained profit,organic,buckwheat - oats - grain maize - soybean - winter wheat,0.456,2.33,-80.8,80.8,744.0
+S0 unconstrained profit,conventional,buckwheat - oats - grain maize - soybean - winter wheat,0.456,2.33,-90.8,90.8,736.0
+S1 profit [yield -20%],organic,buckwheat - winter rye + GM - soybean - lupin green manure - winter wheat + GM,0.066,2.219,0.0,-0.0,413.0
+S2 restoration [yield -20%],organic,buckwheat - winter rye + GM - lupin green manure - winter wheat + GM - grain maize,0.7,2.4,-0.0,-0.0,361.0
+S1 profit [no catch-crop GM],organic,buckwheat - lupin green manure - winter rye - grain maize - soybean,0.0,2.2,0.0,-0.0,278.0
+S2 restoration [no catch-crop GM],organic,buckwheat - winter rye - grain maize - soybean - lupin green manure,0.7,2.4,-0.0,-0.0,217.0

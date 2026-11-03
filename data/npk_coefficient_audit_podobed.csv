@@ -5,8 +5,8 @@ crop_removal,per-tonne removal norms,per-tonne removal norms,kg per t,same tradi
 seed,per crop (~4 kg N),2.9 / 1.1 / 0.9,kg/ha,same order
 atmospheric_deposition_N_P2O5_K2O,8.7 / 0.12 / 8.2,4.6 / 0.4 / 4.5,kg/ha/yr,differs
 non_symbiotic_N_fixation,not included,10,kg N/ha/yr,differs
-symbiotic_N_fixation,9.4 kg N per t legume,50% of legume N removal,-,same intent
+symbiotic_N_fixation,50% of legume N uptake,50% of legume N removal,-,adopted from Podobed
 gaseous_N_loss,10% of mineral N,15% of applied N,%,differs
-N_leaching_steppe,2-3,10,kg N/ha/yr,differs
+N_leaching,5 (Forest-Steppe; Steppe 2-3),10 (Steppe),kg N/ha/yr,differs
 weed_removal,22% of crop removal,not included,%,this work only
-application_loss,10 N / 5 P2O5,not included,kg/ha,this work only
+application_loss (mineral fertiliser),10 N / 5 K2O,not included,kg/ha,this work only

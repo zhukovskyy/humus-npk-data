@@ -1,0 +1,1170 @@
+{
+ "target_dH": 0.7,
+ "scenarios": [
+  {
+   "name": "S1 profit",
+   "mode": "organic",
+   "feasible": true,
+   "rotation": "buckwheat - lupin green manure - soybean - winter wheat + GM - winter rye + GM",
+   "dH": 0.202,
+   "humus_10yr": 2.258,
+   "B_N": 0.0,
+   "N_deficit": -0.0,
+   "margin": 472.0,
+   "duals": [
+    1.55,
+    1.55,
+    4.85,
+    0.0,
+    0.0,
+    4.85
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 14.6,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "lupin green manure",
+     "Y": 300.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "soybean",
+     "Y": 17.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter wheat + GM",
+     "Y": 27.219,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter rye + GM",
+     "Y": 29.7,
+     "b": 0.0,
+     "e": 0.193,
+     "p": 0.304,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    }
+   ]
+  },
+  {
+   "name": "S2 restoration",
+   "mode": "organic",
+   "feasible": true,
+   "rotation": "buckwheat - winter rye + GM - lupin green manure - winter wheat + GM - grain maize",
+   "dH": 0.7,
+   "humus_10yr": 2.4,
+   "B_N": 0.0,
+   "N_deficit": -0.0,
+   "margin": 447.0,
+   "duals": [
+    1.55,
+    1.55,
+    8.28,
+    0.0,
+    105.89,
+    8.28
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 14.6,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter rye + GM",
+     "Y": 23.128,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "lupin green manure",
+     "Y": 300.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter wheat + GM",
+     "Y": 17.95,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 62.7,
+     "b": 1.918,
+     "e": 0.259,
+     "p": 0.219,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    }
+   ]
+  },
+  {
+   "name": "S3 agroecological",
+   "mode": "organic",
+   "feasible": true,
+   "rotation": "buckwheat - winter rye + GM - grain maize - lupin green manure - winter wheat + GM",
+   "dH": 0.547,
+   "humus_10yr": 2.356,
+   "B_N": 0.0,
+   "N_deficit": -0.0,
+   "margin": 357.0,
+   "duals": [
+    1.55,
+    1.55,
+    420.79,
+    0.0,
+    420.79,
+    13562.06
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 4.213,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter rye + GM",
+     "Y": 29.7,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 58.572,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "lupin green manure",
+     "Y": 300.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter wheat + GM",
+     "Y": 17.95,
+     "b": 0.0,
+     "e": 0.325,
+     "p": 0.317,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    }
+   ]
+  },
+  {
+   "name": "B2 humus only",
+   "mode": "organic",
+   "feasible": true,
+   "rotation": "buckwheat - winter rye + GM - grain maize - lupin green manure - winter wheat + GM",
+   "dH": 1.69,
+   "humus_10yr": 2.683,
+   "B_N": 6.4,
+   "N_deficit": -0.0,
+   "margin": 188.0,
+   "duals": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    764.42
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 14.6,
+     "b": 3.997,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter rye + GM",
+     "Y": 29.7,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 62.7,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "lupin green manure",
+     "Y": 300.0,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter wheat + GM",
+     "Y": 52.0,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    }
+   ]
+  },
+  {
+   "name": "S1 profit",
+   "mode": "conventional",
+   "feasible": true,
+   "rotation": "buckwheat - winter rye + GM - grain maize - soybean - winter wheat + GM",
+   "dH": 0.714,
+   "humus_10yr": 2.404,
+   "B_N": 0.0,
+   "N_deficit": -0.0,
+   "margin": 623.0,
+   "duals": [
+    1.55,
+    1.55,
+    1.72,
+    0.0,
+    0.0,
+    1.72
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 14.6,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter rye + GM",
+     "Y": 29.7,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 62.7,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 18.365,
+     "mP": 0.0,
+     "mK": 19.941
+    },
+    {
+     "crop": "soybean",
+     "Y": 17.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 138.958,
+     "mP": 0.0,
+     "mK": 41.48
+    },
+    {
+     "crop": "winter wheat + GM",
+     "Y": 52.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.719,
+     "s": 0.4,
+     "mN": 183.976,
+     "mP": 0.0,
+     "mK": 139.568
+    }
+   ]
+  },
+  {
+   "name": "S2 restoration",
+   "mode": "conventional",
+   "feasible": true,
+   "rotation": "buckwheat - winter rye + GM - grain maize - soybean - winter wheat + GM",
+   "dH": 0.714,
+   "humus_10yr": 2.404,
+   "B_N": 0.0,
+   "N_deficit": -0.0,
+   "margin": 623.0,
+   "duals": [
+    1.55,
+    1.55,
+    1.72,
+    0.0,
+    0.0,
+    1.72
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 14.6,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter rye + GM",
+     "Y": 29.7,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 62.7,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 18.365,
+     "mP": 0.0,
+     "mK": 19.941
+    },
+    {
+     "crop": "soybean",
+     "Y": 17.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 138.958,
+     "mP": 0.0,
+     "mK": 41.48
+    },
+    {
+     "crop": "winter wheat + GM",
+     "Y": 52.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.719,
+     "s": 0.4,
+     "mN": 183.976,
+     "mP": 0.0,
+     "mK": 139.568
+    }
+   ]
+  },
+  {
+   "name": "B2 humus only",
+   "mode": "conventional",
+   "feasible": true,
+   "rotation": "buckwheat - winter rye + GM - grain maize - lupin green manure - winter wheat + GM",
+   "dH": 1.69,
+   "humus_10yr": 2.683,
+   "B_N": -1.6,
+   "N_deficit": 1.6,
+   "margin": 188.0,
+   "duals": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    764.42
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 14.6,
+     "b": 3.997,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter rye + GM",
+     "Y": 29.7,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 62.7,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "lupin green manure",
+     "Y": 300.0,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter wheat + GM",
+     "Y": 52.0,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    }
+   ]
+  },
+  {
+   "name": "S4 balanced",
+   "mode": "organic",
+   "feasible": true,
+   "rotation": "buckwheat - grain maize - lupin green manure - winter wheat + GM - winter rye + GM",
+   "dH": 1.042,
+   "humus_10yr": 2.498,
+   "B_N": -27.2,
+   "N_deficit": 27.2,
+   "margin": 592.0,
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 14.6,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 62.7,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "lupin green manure",
+     "Y": 300.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter wheat + GM",
+     "Y": 52.0,
+     "b": 0.0,
+     "e": 0.089,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter rye + GM",
+     "Y": 29.7,
+     "b": 0.0,
+     "e": 0.4,
+     "p": 0.501,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    }
+   ],
+   "ideal": [
+    1.69,
+    0.0,
+    743.538
+   ],
+   "nadir": [
+    -0.211,
+    -68.521,
+    188.39
+   ]
+  },
+  {
+   "name": "S4 balanced",
+   "mode": "conventional",
+   "feasible": true,
+   "rotation": "buckwheat - grain maize - lupin green manure - winter wheat + GM - winter rye + GM",
+   "dH": 1.042,
+   "humus_10yr": 2.498,
+   "B_N": -0.0,
+   "N_deficit": -0.0,
+   "margin": 525.0,
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 14.6,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 62.7,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 25.845,
+     "mK": 0.0
+    },
+    {
+     "crop": "lupin green manure",
+     "Y": 300.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter wheat + GM",
+     "Y": 52.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 92.261,
+     "mP": 76.128,
+     "mK": 87.261
+    },
+    {
+     "crop": "winter rye + GM",
+     "Y": 29.7,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 94.208,
+     "mP": 36.234,
+     "mK": 90.585
+    }
+   ],
+   "ideal": [
+    1.69,
+    0.0,
+    735.798
+   ],
+   "nadir": [
+    0.537,
+    -78.521,
+    188.39
+   ]
+  },
+  {
+   "name": "B1 calculator (best by humus)",
+   "mode": "organic",
+   "feasible": true,
+   "rotation": "buckwheat - winter rye + GM - grain maize - lupin green manure - winter wheat + GM",
+   "dH": 1.174,
+   "humus_10yr": 2.535,
+   "B_N": 27.8,
+   "N_deficit": -0.0,
+   "margin": -50.0,
+   "lp_same_humus_N": {
+    "dH": 1.174,
+    "B_N": 0.0,
+    "margin": 372.0
+   }
+  },
+  {
+   "name": "S0 unconstrained profit",
+   "mode": "organic",
+   "feasible": true,
+   "rotation": "buckwheat - oats - grain maize - soybean - winter wheat",
+   "dH": 0.456,
+   "humus_10yr": 2.33,
+   "B_N": -80.8,
+   "N_deficit": 80.8,
+   "margin": 744.0,
+   "duals": [
+    1.55,
+    1.55,
+    0.0,
+    0.0
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 14.6,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "oats",
+     "Y": 27.8,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 62.7,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "soybean",
+     "Y": 17.0,
+     "b": 0.0,
+     "e": 0.166,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter wheat",
+     "Y": 52.0,
+     "b": 0.0,
+     "e": 0.4,
+     "p": 0.65,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    }
+   ]
+  },
+  {
+   "name": "S0 unconstrained profit",
+   "mode": "conventional",
+   "feasible": true,
+   "rotation": "buckwheat - oats - grain maize - soybean - winter wheat",
+   "dH": 0.456,
+   "humus_10yr": 2.33,
+   "B_N": -90.8,
+   "N_deficit": 90.8,
+   "margin": 736.0,
+   "duals": [
+    1.55,
+    1.55,
+    0.0,
+    0.0
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 14.6,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "oats",
+     "Y": 27.8,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 62.7,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 35.698,
+     "mK": 0.0
+    },
+    {
+     "crop": "soybean",
+     "Y": 17.0,
+     "b": 0.0,
+     "e": 0.297,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 31.11,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter wheat",
+     "Y": 52.0,
+     "b": 0.0,
+     "e": 0.4,
+     "p": 0.0,
+     "s": 0.0,
+     "mN": 0.0,
+     "mP": 76.128,
+     "mK": 0.0
+    }
+   ]
+  }
+ ],
+ "calculator": {
+  "n_rotations": 2176,
+  "n": 2176,
+  "dominated": 2176,
+  "gain_median": 223.0,
+  "gain_mean": 229.0,
+  "gain_min": 51.0,
+  "gain_max": 456.0
+ },
+ "sensitivity": [
+  {
+   "name": "S1 profit [yield -20%]",
+   "mode": "organic",
+   "feasible": true,
+   "rotation": "buckwheat - winter rye + GM - soybean - lupin green manure - winter wheat + GM",
+   "dH": 0.066,
+   "humus_10yr": 2.219,
+   "B_N": 0.0,
+   "N_deficit": -0.0,
+   "margin": 413.0,
+   "duals": [
+    1.55,
+    1.55,
+    4.85,
+    0.0,
+    0.0,
+    4.85
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 11.68,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter rye + GM",
+     "Y": 23.76,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "soybean",
+     "Y": 13.6,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "lupin green manure",
+     "Y": 240.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter wheat + GM",
+     "Y": 33.679,
+     "b": 0.0,
+     "e": 0.185,
+     "p": 0.291,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    }
+   ]
+  },
+  {
+   "name": "S2 restoration [yield -20%]",
+   "mode": "organic",
+   "feasible": true,
+   "rotation": "buckwheat - winter rye + GM - lupin green manure - winter wheat + GM - grain maize",
+   "dH": 0.7,
+   "humus_10yr": 2.4,
+   "B_N": -0.0,
+   "N_deficit": -0.0,
+   "margin": 361.0,
+   "duals": [
+    1.55,
+    1.55,
+    7.36,
+    0.0,
+    153.48,
+    7.36
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 11.68,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter rye + GM",
+     "Y": 23.76,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "lupin green manure",
+     "Y": 240.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter wheat + GM",
+     "Y": 32.46,
+     "b": 1.026,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 50.16,
+     "b": 4.0,
+     "e": 0.197,
+     "p": 0.056,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    }
+   ]
+  },
+  {
+   "name": "S1 profit [no catch-crop GM]",
+   "mode": "organic",
+   "feasible": true,
+   "rotation": "buckwheat - lupin green manure - winter rye - grain maize - soybean",
+   "dH": 0.0,
+   "humus_10yr": 2.2,
+   "B_N": 0.0,
+   "N_deficit": -0.0,
+   "margin": 278.0,
+   "duals": [
+    0.0,
+    0.0,
+    13.06,
+    0.0,
+    87.05,
+    13.06
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 14.6,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "lupin green manure",
+     "Y": 300.0,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter rye",
+     "Y": 19.5,
+     "b": 0.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 20.593,
+     "b": 3.729,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "soybean",
+     "Y": 17.0,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    }
+   ]
+  },
+  {
+   "name": "S2 restoration [no catch-crop GM]",
+   "mode": "organic",
+   "feasible": true,
+   "rotation": "buckwheat - winter rye - grain maize - soybean - lupin green manure",
+   "dH": 0.7,
+   "humus_10yr": 2.4,
+   "B_N": -0.0,
+   "N_deficit": -0.0,
+   "margin": 217.0,
+   "duals": [
+    0.0,
+    0.0,
+    13.06,
+    0.0,
+    87.05,
+    13.06
+   ],
+   "plan": [
+    {
+     "crop": "buckwheat",
+     "Y": 14.6,
+     "b": 0.115,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "winter rye",
+     "Y": 19.5,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "grain maize",
+     "Y": 58.969,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "soybean",
+     "Y": 17.0,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    },
+    {
+     "crop": "lupin green manure",
+     "Y": 300.0,
+     "b": 4.0,
+     "e": 0.0,
+     "p": 0.0,
+     "s": 0.4,
+     "mN": 0.0,
+     "mP": 0.0,
+     "mK": 0.0
+    }
+   ]
+  }
+ ]
+}

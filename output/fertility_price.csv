@@ -1,0 +1,27 @@
+mode,dH_target,humus_10yr,margin,rotation,dual_humus
+organic,0.0,2.2,472.0,buckwheat - lupin green manure - soybean - winter wheat + GM - winter rye + GM,0.0
+organic,0.15,2.243,472.0,buckwheat - lupin green manure - soybean - winter wheat + GM - winter rye + GM,0.0
+organic,0.3,2.286,458.0,buckwheat - winter wheat + GM - winter rye + GM - lupin green manure - grain maize,0.0
+organic,0.45,2.329,458.0,buckwheat - winter wheat + GM - winter rye + GM - lupin green manure - grain maize,0.0
+organic,0.6,2.371,456.0,buckwheat - winter wheat + GM - winter rye + GM - lupin green manure - grain maize,36.3
+organic,0.75,2.414,442.0,buckwheat - winter rye + GM - lupin green manure - winter wheat + GM - grain maize,105.9
+organic,0.9,2.457,423.0,buckwheat - winter rye + GM - lupin green manure - winter wheat + GM - grain maize,153.5
+organic,1.05,2.5,398.0,buckwheat - winter rye + GM - lupin green manure - winter wheat + GM - grain maize,209.0
+organic,1.2,2.543,366.0,buckwheat - winter rye + GM - lupin green manure - winter wheat + GM - grain maize,209.0
+organic,1.35,2.586,335.0,buckwheat - grain maize - lupin green manure - winter wheat + GM - winter rye + GM,209.0
+organic,1.5,2.629,304.0,buckwheat - winter rye + GM - lupin green manure - winter wheat + GM - grain maize,209.0
+organic,1.65,2.671,219.0,buckwheat - grain maize - lupin green manure - winter wheat + GM - winter rye + GM,764.4
+organic,1.8,2.714,,,
+conventional,0.0,2.2,623.0,buckwheat - winter rye + GM - grain maize - soybean - winter wheat + GM,0.0
+conventional,0.15,2.243,623.0,buckwheat - winter rye + GM - grain maize - soybean - winter wheat + GM,0.0
+conventional,0.3,2.286,623.0,buckwheat - winter rye + GM - grain maize - soybean - winter wheat + GM,0.0
+conventional,0.45,2.329,623.0,buckwheat - winter rye + GM - grain maize - soybean - winter wheat + GM,0.0
+conventional,0.6,2.371,623.0,buckwheat - winter rye + GM - grain maize - soybean - winter wheat + GM,0.0
+conventional,0.75,2.414,607.0,buckwheat - winter rye + GM - grain maize - soybean - winter wheat + GM,445.9
+conventional,0.9,2.457,540.0,buckwheat - winter rye + GM - grain maize - soybean - winter wheat + GM,445.9
+conventional,1.05,2.5,522.0,buckwheat - grain maize - lupin green manure - winter wheat + GM - winter rye + GM,445.9
+conventional,1.2,2.543,455.0,buckwheat - winter rye + GM - lupin green manure - winter wheat + GM - grain maize,445.9
+conventional,1.35,2.586,387.0,buckwheat - grain maize - lupin green manure - winter wheat + GM - winter rye + GM,589.2
+conventional,1.5,2.629,298.0,buckwheat - winter rye + GM - lupin green manure - winter wheat + GM - grain maize,589.2
+conventional,1.65,2.671,210.0,buckwheat - grain maize - lupin green manure - winter wheat + GM - winter rye + GM,589.2
+conventional,1.8,2.714,,,
