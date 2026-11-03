@@ -1,7 +1,7 @@
 {
   "upload_type": "dataset",
-  "title": "Validation data, coefficients and script for an integrated humus and NPK balance decision-support framework",
-  "description": "<p>Validation data, model coefficients and a reproducible script accompanying the manuscript <em>A GIS-enabled environmental decision-support framework for integrated humus and NPK balance modelling in crop-rotation planning</em> (manuscript submitted for publication).</p><p>Contents: humus balance and humus stock values transcribed from Kudria et al. (2024, doi:10.31073/agrovisnyk202401-08) used for the cross-regional validation of the humus module; representative coefficients of the deployed calculator; a worked N-P-K balance example; a term-by-term comparison of NPK balance coefficients with an independent long-term rotation-balance study; and a Python script that reproduces the validation metrics and figure. Values transcribed from third-party publications remain attributable to their original authors; see README.md.</p>",
+  "title": "Humus-NPK balances of crop rotations: coefficients, validation data and multi-objective optimisation results",
+  "description": "<p>Supplementary data for the manuscript <em>Balancing soil humus, nitrogen and income in organic crop rotations: a multi-objective decision-support model with farmer profiles</em> (manuscript submitted for publication).</p><p>Contents: crop and model coefficients of the coupled humus and N-P-K balance model (residue regressions, humification and mineralisation coefficients, removal norms, seed and fertiliser contents, losses, yield ranges, 2021 prices in UAH and EUR); humus balance and stock values transcribed from Kudria et al. (2024, doi:10.31073/agrovisnyk202401-08) with a script that reproduces the cross-regional validation of the humus module; a term-by-term comparison of NPK balance coefficients with an independent long-term study; and the results of the multi-objective linear programming of 2176 five-field rotations in organic and conventional mode (Pareto and Slater sets, farmer-profile plans, price-of-fertility curves, worked example). Values transcribed from third-party publications remain attributable to their original authors; see README.md.</p>",
   "creators": [
     {
       "name": "Zhukovskyy, Viktor",
@@ -24,13 +24,12 @@
   "license": "cc-by-4.0",
   "access_right": "open",
   "keywords": [
-    "decision support system",
-    "GIS",
-    "humus dynamics",
-    "nutrient balance",
+    "organic farming",
     "crop rotation",
-    "environmental software",
-    "model validation"
+    "humus balance",
+    "nitrogen balance",
+    "multi-objective optimisation",
+    "decision support"
   ],
   "related_identifiers": [
     {
@@ -48,5 +47,6 @@
       "relation": "isSupplementTo",
       "scheme": "url"
     }
-  ]
+  ],
+  "version": "1.2"
 }
